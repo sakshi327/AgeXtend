@@ -1,3 +1,16 @@
+**Contributor Note**
+This repository is forked from the original AgeXtend project developed in the Ahuja Lab.
+My PhD contributions spanned both **computational development and experimental validation**, including:
+
+- Design of bioactivity-based molecular representations
+- Model evaluation, explainability, and large-scale screening
+- Experimental validation using yeast chronological lifespan assays
+- Cellular senescence and toxicity assays in mammalian cells
+- In vivo validation using *C. elegans* lifespan models
+
+For simplified, reproducible demonstrations of these workflows, see:
+👉 https://github.com/sakshi327/phd-portfolio
+
 # AgeXtend
 
 ### Introduction
